@@ -171,7 +171,7 @@ export default function LoginPage() {
         <div className="mt-4 text-center">
           <p className="text-sm text-gray-600">Cuentas de prueba:</p>
           <div className="mt-2 text-xs text-gray-500">
-            <p>juanmarco.ct@gmail.com (con 2FA)</p>
+            <p>juanmarco.ct@gmail.com (con 2FA para pruebas)</p>
             <p>admin@casamonarca.com</p>
             <p>sub_admin@casamonarca.com</p>
             <p>coord_humanitaria@casamonarca.com</p>
