@@ -25,7 +25,7 @@ const mockNotifications = [
   {
     id: 2,
     title: "Documento firmado",
-    message: "Juan Pérez ha firmado el documento 'Acta de reunión'",
+    message: "Juan Marco ha firmado el documento 'Acta de reunión'",
     time: "Hace 2 horas",
     read: false,
   },

@@ -36,7 +36,7 @@ export default function NotificationsPage({ params }: NotificationsPageProps) {
     {
       id: "notif-2",
       title: "Documento firmado",
-      message: "Juan Pérez ha firmado el documento 'Acta de reunión'",
+      message: "Juan Marco ha firmado el documento 'Acta de reunión'",
       time: "Hace 2 horas",
       read: false,
       type: "document",
@@ -44,7 +44,7 @@ export default function NotificationsPage({ params }: NotificationsPageProps) {
     {
       id: "notif-3",
       title: "Nuevo usuario",
-      message: "Se ha registrado un nuevo usuario: Carlos Gómez",
+      message: "Se ha registrado un nuevo usuario: Alfredoo",
       time: "Hace 3 horas",
       read: true,
       type: "user",

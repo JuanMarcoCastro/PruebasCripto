@@ -41,7 +41,7 @@ export default function UsersPage() {
     },
     {
       id: "user-2",
-      name: "Juan Pérez",
+      name: "Juan Marco",
       email: "juan@casamonarca.com",
       role: "sub_admin",
       area: "Legal",
@@ -49,7 +49,7 @@ export default function UsersPage() {
     },
     {
       id: "user-3",
-      name: "María Rodríguez",
+      name: "Fedris",
       email: "maria@casamonarca.com",
       role: "management",
       area: "Humanitaria",
@@ -57,7 +57,7 @@ export default function UsersPage() {
     },
     {
       id: "user-4",
-      name: "Carlos Gómez",
+      name: "Alfredo",
       email: "carlos@casamonarca.com",
       role: "employer",
       area: "Psicosocial",
@@ -65,7 +65,7 @@ export default function UsersPage() {
     },
     {
       id: "user-5",
-      name: "Ana López",
+      name: "Miris",
       email: "ana@casamonarca.com",
       role: "public",
       area: "Comunicación",
